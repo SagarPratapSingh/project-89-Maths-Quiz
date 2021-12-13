@@ -1,0 +1,103 @@
+body
+{
+	background-image: url("mathq.jpg");
+	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1 {
+	font-weight: bold;
+	font-style: italic;
+	color: yellow;
+}
+
+h3 {
+	font-weight: bold;
+	font-style: italic;
+	color: red;
+}
+
+#player1_name_input {
+	border-width: 4px;
+	border-color: red;
+	font-weight: 800;
+}
+
+#player2_name_input {
+	border-width: 4px;
+	border-color: red;
+	font-weight: 800;
+}
+
+#login {
+	font-weight: 600;
+	background-color: purple;
+	color: #ffff00;
+}
+
+#labco {
+	color: yellow;
+}
+
+#word {
+	font-weight: 700;
+	border-width: 4px;
+	border-color: red;
+}
+
+#h2guess {
+	font-style: oblique;
+}
+
+#butsend {
+	background-color: lightseagreen;
+	font-weight: 700;
+	font-style: inherit;
+}
+
+#player1_name {
+	color: white;
+}
+
+#player2_name {
+	color: white;
+}
+
+#player1_score {
+	color: white;
+}
+
+#player2_score {
+	color: white;
+}
